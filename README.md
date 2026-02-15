@@ -1,0 +1,1 @@
+Automatic redirect from Internet Explorer to Microsoft Edge.
