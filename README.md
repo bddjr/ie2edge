@@ -1,1 +1,1 @@
-Automatic redirect from Internet Explorer to Microsoft Edge.
+Automatically launch Microsoft Edge when running in Internet Explorer.
